@@ -1,6 +1,6 @@
 
 #pragma once
-
+/*issue 1 test*/
 #include "ViewTree.h"
 
 class CFileViewToolBar : public CMFCToolBar
