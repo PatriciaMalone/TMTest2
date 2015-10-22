@@ -7,7 +7,7 @@
 #include "ClassView.h"
 #include "OutputWnd.h"
 #include "PropertiesWnd.h"
-
+/*issue 2*/
 class CMainFrame : public CFrameWndEx
 {
 	
