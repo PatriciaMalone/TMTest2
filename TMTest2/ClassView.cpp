@@ -5,6 +5,8 @@
 #include "Resource.h"
 #include "TMTest2.h"
 
+/*TGIssue2 second attempt*/
+
 class CClassViewMenuButton : public CMFCToolBarMenuButton
 {
 	friend class CClassView;
