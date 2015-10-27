@@ -4,7 +4,7 @@
 #include "ClassView.h"
 #include "Resource.h"
 #include "TMTest2.h"
-
+/*issue 741*/
 /*TGIssue2 second attempt*/
 
 class CClassViewMenuButton : public CMFCToolBarMenuButton
