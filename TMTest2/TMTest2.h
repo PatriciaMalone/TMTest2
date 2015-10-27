@@ -8,7 +8,7 @@
 #endif
 
 #include "resource.h"       // main symbols
-
+/*test4*/
 
 // CTMTest2App:
 // See TMTest2.cpp for the implementation of this class
