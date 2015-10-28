@@ -3,6 +3,7 @@
 #include "ViewTree.h"
 
 /*issue 444*/
+/*connect change*/
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #undef THIS_FILE
