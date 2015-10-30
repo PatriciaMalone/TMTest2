@@ -15,6 +15,8 @@
 #define new DEBUG_NEW
 #endif
 
+//This should  cause a merge conflict
+//hopefully
 
 // CTMTest2App
 
