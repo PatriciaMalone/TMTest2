@@ -17,6 +17,8 @@
 
 /*Also this*/
 
+//This should  cause a merge conflict
+//hopefully
 
 // CTMTest2App
 
