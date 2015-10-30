@@ -12,6 +12,9 @@ static char THIS_FILE[]=__FILE__;
 #define new DEBUG_NEW
 #endif
 
+/*this is a change*/
+
+
 /////////////////////////////////////////////////////////////////////////////
 // CResourceViewBar
 
