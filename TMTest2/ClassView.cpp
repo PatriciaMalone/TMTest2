@@ -12,7 +12,7 @@ class CClassViewMenuButton : public CMFCToolBarMenuButton
 	friend class CClassView;
 
 	DECLARE_SERIAL(CClassViewMenuButton)
-
+	/*issue 272722*/
 public:
 	CClassViewMenuButton(HMENU hMenu = NULL) : CMFCToolBarMenuButton((UINT)-1, hMenu, -1)
 	{
