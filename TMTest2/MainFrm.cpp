@@ -11,6 +11,8 @@
 #define new DEBUG_NEW
 #endif
 
+//This is change ABC
+
 // CMainFrame
 
 IMPLEMENT_DYNCREATE(CMainFrame, CFrameWndEx)
