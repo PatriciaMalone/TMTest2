@@ -32,6 +32,7 @@ public:
 	}
 };
 
+//issue 258
 IMPLEMENT_SERIAL(CClassViewMenuButton, CMFCToolBarMenuButton, 1)
 
 //////////////////////////////////////////////////////////////////////
