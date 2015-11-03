@@ -24,6 +24,8 @@ CFileView::~CFileView()
 {
 }
 
+//Issue 258
+
 BEGIN_MESSAGE_MAP(CFileView, CDockablePane)
 	ON_WM_CREATE()
 	ON_WM_SIZE()
