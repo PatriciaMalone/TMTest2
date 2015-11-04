@@ -2,7 +2,7 @@
 // TMTest2.cpp : Defines the class behaviors for the application.
 //
 
-//Product no 15.9.1
+//Product no 15.9.2
 
 #include "stdafx.h"
 #include "afxwinappex.h"
