@@ -1,7 +1,7 @@
 
 // MainFrm.h : interface of the CMainFrame class
 //
-
+//this is a change for issue 123
 #pragma once
 #include "FileView.h"
 #include "ClassView.h"
