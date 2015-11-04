@@ -1,7 +1,7 @@
-
+//on branch release
 #pragma once
 /*issue one test */
-
+//hot fix for 15.4.3 - 
 #include "ViewTree.h"
 
 class CClassToolBar : public CMFCToolBar

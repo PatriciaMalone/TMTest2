@@ -2,6 +2,8 @@
 // TMTest2.cpp : Defines the class behaviors for the application.
 //
 
+//Product no 15.9.1
+
 #include "stdafx.h"
 #include "afxwinappex.h"
 #include "afxdialogex.h"
@@ -15,6 +17,10 @@
 #define new DEBUG_NEW
 #endif
 
+/*Also this*/
+
+//This should  cause a merge conflict
+//hopefully
 
 // CTMTest2App
 

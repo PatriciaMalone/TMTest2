@@ -1,8 +1,9 @@
-
+/*test 741 */
 #pragma once
 /*issue 1 test*/
 #include "ViewTree.h"
 /*TG issue 1*/
+/*doing some stuff*/
 class CFileViewToolBar : public CMFCToolBar
 {
 	virtual void OnUpdateCmdUI(CFrameWnd* /*pTarget*/, BOOL bDisableIfNoHndler)

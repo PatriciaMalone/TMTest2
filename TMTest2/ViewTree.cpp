@@ -9,6 +9,7 @@
 static char THIS_FILE[] = __FILE__;
 #endif
 
+//issue 369
 /////////////////////////////////////////////////////////////////////////////
 // CViewTree
 
@@ -19,6 +20,8 @@ CViewTree::CViewTree()
 CViewTree::~CViewTree()
 {
 }
+
+//mmmmmmmmmmmmmmmmmm
 
 BEGIN_MESSAGE_MAP(CViewTree, CTreeCtrl)
 END_MESSAGE_MAP()
